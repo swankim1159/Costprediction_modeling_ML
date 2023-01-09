@@ -18,6 +18,8 @@ If you can accurately predict the target value according to the control factor a
 
 Create a model that predicts the target value by Feature for the given values of X0, X1, X2, X3, X4, and X5.
 
+![image](https://user-images.githubusercontent.com/92890359/211250133-6138c630-4728-4ef8-a442-48adf4df0664.png)
+
 
 
 #Submission method
@@ -47,6 +49,8 @@ Randomly changing the row order may result in low scores.
 제어 인자 조절에 따른 Target 값을 정확히 예측 할 수 있다면 이 비용을 절감 할 수 있습니다.
 
 주어진 X0,X1,X2,X3,X4,X5 값을 Feature로 target 값을 예측하는 모델을 만들어 보십시오.
+
+![image](https://user-images.githubusercontent.com/92890359/211250139-7ab420a4-e337-4d9c-bf17-68f58b5289ac.png)
 
 
 #제출방법
