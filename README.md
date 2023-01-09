@@ -59,4 +59,5 @@ Randomly changing the row order may result in low scores.
 
 #유의사항
 1,500개 row 모두 채워야 정상적으로 채점됩니다.
+
 row 순서를 임의로 변경하면 점수가 낮게 나올 수 있습니다.
